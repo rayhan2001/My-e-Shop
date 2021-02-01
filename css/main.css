@@ -1,0 +1,149 @@
+/* statice style */
+a{
+    color: black;
+    
+}
+
+input[type="search"] {
+    background: antiquewhite;
+    border: 1px solid gray;
+    padding: 15px;
+    font: italic 11px/12px georgia;
+    color: #737373;
+    height: 14px;
+    box-shadow: 14px 10px 22px -12px grey;
+}
+.width250{
+    width: 250px;
+  }
+/* end statice style */
+
+
+
+/*header top*/
+
+.header-top{
+    background: #C2C6C5;
+    font-size: 15px;
+    height: 25px;
+    
+}
+.header-top ul{
+    list-style: none;
+    
+}
+.header-top ul li{
+    display: inline;
+    margin-right: 15px;
+}
+.header-top ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0 5px;
+}
+.header-top ul li a:hover {
+    color: #f58220;
+    text-decoration: none;
+  }
+/*end header top*/
+
+/*Header middel*/
+.header-middle{
+    background: #F1F1F3;
+  }  
+.header-middle-left img{
+    width: 300px;
+    height: 70px;
+}
+.header-middle-right{
+    text-align: right;
+}
+.header-middle-right ul{
+    list-style: none;
+}
+.header-middle-right ul li{
+    display: inline;
+    margin-right: 15px;
+}
+nav ul li a:hover{
+    color: rgba(0,0,0,.7);
+    border-top: 4px solid #f47433;
+    transition: all .3s;;
+}
+li.nav-item {
+    margin-right: 10px;
+}
+/*Header middel*/
+
+/*Slider Style*/
+.carousel-item{
+    height: 600px;
+}
+.carousel-img-1 {
+    background: url(../img/slide/slide1.jpg);
+    background-size: cover;
+}
+.carousel-img-2 {
+    background: url(../img/slide/slide2.jpg);
+    background-size: cover;
+}
+.carousel-img-3 {
+    background: url(../img/slide/slide3.jpg);
+    background-size: cover;
+}
+.carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    background-color: rgb(244, 122, 50);
+}
+/*End Slider Style*/
+
+/* Product Carousel */
+.item {
+    width: 243px;
+    height: 245px;
+    box-shadow: 14px 10px 22px -12px grey;
+}
+/* End Product Carousel */
+
+/*top-offers*/
+.top-offers{
+    padding: 30px;
+    background: #F8F8F8;
+}
+.offer-demo{
+    border: 1px solid #dfd8d8;
+    padding: 10px;
+  }
+/*end top-offers*/
+/* Footer Bottom */
+.footer-bottom{
+    padding: 20px;
+    background: #FFF;
+  }
+  .footer-top{
+    padding: 30px;
+    background: #F8F8F8;
+  }
+  .footer-top ul{
+    list-style: none;
+  }
+  .footer-top h5{
+    margin-left: 20px;
+  }
+  /* End Footer Bottom */
+
+  /*prodact css*/
+  .products-page {
+    background: #F8F8F8;
+    padding: 10px;
+    padding-top: 30px;
+  }
+  .products-page {
+    background: #F8F8F8;
+    padding: 10px;
+    padding-top: 30px;
+  }
+  /*prodact css*/
+  
